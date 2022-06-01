@@ -1,8 +1,8 @@
 # Projeto de Rede Social para Cães! 
-# Projeto desenvolvido com as tecnologias:
-  # React JS
-  # Css Modules
-  # Css Responsive
+ Projeto desenvolvido com as tecnologias:
+  *React JS
+  *Css Modules
+  *Css Responsive
 # Obs: Há algumas funcionalidades ainda em desenvolvimento.
 
 # Para rodar o projeto:
