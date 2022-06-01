@@ -17,6 +17,8 @@ Para rodar o projeto:
   
   logo em seguinda => npm start
   
+  (senha para logar no projeto = usuário: dog / senha: dog)
+  
 
 Projeto na sua 1° versão
 --
